@@ -1,10 +1,6 @@
 # noSleepCam
 A smart alarm system using a Raspberry Pi camera that detects if you're still lying in bed and whether the bed is organized. The alarm only stops when you're out of bed and the bed is clean. It connects with a mobile app for status updates and control.
 
-# wakeCamPi 🔔📷🛏️
-
-A smart alarm system using **Raspberry Pi**, **camera** to detect if you're still in bed and whether your bed is clean — before allowing you to "turn off" the wake-up sequence.
-
 ## 📸 What It Does
 
 - Detects if someone is still lying on the bed using a camera.
